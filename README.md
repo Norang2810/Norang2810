@@ -29,6 +29,7 @@ Java랑 Spring을 중심으로 이것저것 만들어보면서 매일 성장 중
 
 
 ## 🧑‍💻 Stats
+![Programmers](https://img.shields.io/badge/프로그래머스-0052CC?style=flat&logo=codeforces&logoColor=white)  
 ![Norang2810's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norang2810&show_icons=true&theme=tokyonight)
 
 ## 📬 Contact
