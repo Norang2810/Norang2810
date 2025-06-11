@@ -1,11 +1,12 @@
 # 👋 백엔드 개발자 박진우입니다
 
 ## 💡 About Me
-"배우는 걸 좋아하고, 틀리는 걸 두려워하지 않는 개발자입니다!"
-개발은 늘 새롭고, 그래서 더 재밌습니다.
-Java랑 Spring을 중심으로 이것저것 만들어보면서 매일 성장 중이에요.
-모르는 건 물어보고, 피드백은 쿨하게 받아들이고, 혼자보단 함께 잘하는 걸 좋아해요.
+"배우는 걸 좋아하고, 틀리는 걸 두려워하지 않는 개발자입니다!"  
+개발은 늘 새롭고, 그래서 더 재밌습니다.  
+Java랑 Spring을 중심으로 이것저것 만들어보면서 매일 성장 중이에요.  
+모르는 건 물어보고, 피드백은 쿨하게 받아들이고, 혼자보단 함께 잘하는 걸 좋아해요.  
 아직 완벽하진 않지만, 계속 배우고 움직이는 사람이 되려고 노력 중입니다 :)
+
 
 ## 📌 Tech Stack
 
@@ -31,8 +32,8 @@ Java랑 Spring을 중심으로 이것저것 만들어보면서 매일 성장 중
 ![Norang2810's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norang2810&show_icons=true&theme=tokyonight)
 
 ## 📬 Contact
-📧 Email: norang2810@naver.com
-📘 Tech Blog: https://norang2810.tistory.com/ 
+📧 Email: norang2810@naver.com  
+📘 Tech Blog: https://norang2810.tistory.com/  
 
 ---
 
