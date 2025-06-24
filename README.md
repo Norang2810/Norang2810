@@ -22,12 +22,10 @@
 
 ## 📜 Certifications
 
-![정보처리기사](https://img.shields.io/badge/정보처리기사-blue?style=flat&logo=gnubash)
-![리눅스마스터2급](https://img.shields.io/badge/리눅스마스터2급-red?style=flat&logo=linux)
-![SQLD](https://img.shields.io/badge/SQLD-cc6600?style=flat&logo=postgresql)
-![컴활1급](https://img.shields.io/badge/컴활1급-0078D6?style=flat&logo=microsoftexcel)
-
-
+![정보처리기사](https://img.shields.io/badge/정보처리기사-AEB6BF?style=flat)
+![리눅스마스터2급](https://img.shields.io/badge/리눅스마스터2급-AEB6BF?style=flat)
+![SQLD](https://img.shields.io/badge/SQLD-AEB6BF?style=flat)
+![컴활1급](https://img.shields.io/badge/컴활1급-AEB6BF?style=flat)
 
 
 ## 🧑‍💻 Stats
@@ -46,6 +44,4 @@
 🎯 꾸준한 기록과 실행으로 성장하는 개발자가 되겠습니다. 방문해주셔서 감사합니다!
 
 ---
-
-![snake gif](https://github.com/Norang2810/Norang2810/blob/output/github-snake.svg)
 
