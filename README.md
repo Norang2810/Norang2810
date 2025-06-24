@@ -1,4 +1,4 @@
-## 💡 About Me
+## 🌱 About Me
 사소한 궁금증이라도 그냥 넘기지 않습니다.  
 하나하나 배우고, 그 속에서 성장의 재미를 찾습니다.  
 함께 배우고 나누는 개발자로서 계속 나아가고 싶습니다😄
@@ -18,8 +18,14 @@
 ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black)  
 
+## 📜 Certifications
+
+![정보처리기사](https://img.shields.io/badge/정보처리기사-blue?style=flat&logo=gnubash)
+![리눅스마스터2급](https://img.shields.io/badge/리눅스마스터2급-red?style=flat&logo=linux)
+![SQLD](https://img.shields.io/badge/SQLD-cc6600?style=flat&logo=postgresql)
+![컴활1급](https://img.shields.io/badge/컴활1급-0078D6?style=flat&logo=microsoftexcel)
 
 
 
@@ -28,6 +34,9 @@
 ![Programmers](https://img.shields.io/badge/프로그래머스-0052CC?style=flat&logo=codeforces&logoColor=white)  
 ![Norang2810's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norang2810&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/norang2810/)
+
+
+
 ## 📬 Contact
 📧 Email: norang2810@naver.com  
 📘 Tech Blog: https://norang2810.tistory.com/  
