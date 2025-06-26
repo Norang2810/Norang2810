@@ -36,8 +36,12 @@
 
 
 ## 📬 Contact
-📧 Email: norang2810@naver.com  
-📘 Tech Blog: https://norang2810.tistory.com/  
+
+[![Naver Email](https://img.shields.io/badge/Naver-Mail-green?style=flat&logo=naver)](mailto:norang2810@naver.com)  
+[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=flat&logo=tistory)](https://norang2810.tistory.com/)
+
+
+ 
 
 ---
 
