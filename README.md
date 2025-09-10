@@ -31,7 +31,7 @@
 ## 🧑‍💻 Stats
 ![Programmers](https://img.shields.io/badge/프로그래머스-0052CC?style=flat&logo=codeforces&logoColor=white)  
 ![Norang2810's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norang2810&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/norang2810/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=norang2810)](https://solved.ac/norang2810/)
 
 
 
