@@ -43,7 +43,6 @@
 
 
 ##  Stats
-![Norang2810's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norang2810&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=norang2810)](https://solved.ac/norang2810/)
 
 
